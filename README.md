@@ -2,9 +2,17 @@
 ![I am a passionate full-stack developer from Bangladesh ](https://scontent.fjsr11-1.fna.fbcdn.net/v/t1.6435-9/240805484_2274446219357445_5251291789870668751_n.png?_nc_cat=103&ccb=1-5&_nc_sid=e3f864&_nc_ohc=-_ABMocTASoAX-YoGB1&_nc_ht=scontent.fjsr11-1.fna&oh=e802cb1bbd928b3b9fbdff2ec8f29997&oe=6170C717)
 ### Hi there 👋, my name is Shamim Hosen 
 #### I am a passionate full-stack developer from Bangladesh 
-Love to learn new skills. Now learning JavaScript & java. Full and fresh hand code is my power. Client satisfaction is my first priority.
+I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
 
-Skills: REACT / JS / HTML / CSS/PHP/JAVA/WORDPRESS 
+
+
+Skills:  
+-✅ WordPress
+-✅ JavaScript
+-✅ PHP
+-✅ HTML5 / CSS3 / SASS / Bootstrap
+-✅ Photoshop / Illustrator
+-✅ App development 
 
 - 🔭 I’m currently working on samimit.com 
 - 🌱 I’m currently learning App development  
